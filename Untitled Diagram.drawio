@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T00:27:51.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="YfDWUU57KN3dHh3hADw1" version="15.0.4" type="github"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFFMMpRh4s13G/viJIBiMby5cgpVZeYm0JAXst9l66wATezV8/V2iRfSUpLibASV8n8N8JAK7nROxfbdk0ltDjhlmVp7xRa3jKf2NudLh1lad4udOQElLQfLFrTEhZ4oTu2FBVkfVusxdS7J51gWZYMjwlqJCt/+UpzbjVdZy24gvOZxk/deTzimeU/JxVZFXy85WkxE3NHIlueNNlhlKy7pjg/QTeVYTQ5tf89Q4XtVuFx5rjHg7Ubi+5wiVVOSAMcZDE4YsbBymKIviJ9/ALFSvuhm/M5/xi6Ub4ZrnO5wVitwWnGZ0XzOiyn0mWF+kj2pBVffIlZX4QpSkrVZSDzC4KTt8chOvrqEtbR9SFAj3jYrr14h0pSMWq3vxY91SRn1tI6vO+kJI+oHle1Ez7gasUlYib+RkjVkRFPivZ74T5BrP+prKzxN3jiuLXjok77zMmc0yrDWvCa0OOI6e4x4vrli9xwG1ZhyqhoAriHJ1te27BYj84XorYAQm7xxoi4LiK+EkYyR46SJjjLuM+ArKP3L0+gu/ho0jykeSblpi1T9ZZTvHTAiV17ZpFup7LjODtQSooExnsEjnwZZCcPSAF74FRbDFSwcj1dYIksrRFqYcS3EXJD/bEu9FQAoEECk6ZyuFFUtGMzEiJivvWOt2FrQPRMVRY9vinFl4920NeX3CT5jsZxmdlXKbiiKRAy2WefM/ysqngh7lNqXPQ/5jSDS+jFSXM1N7IIyGLbTo7hybKKW9JVlWCh/MMu90ZPtgP76hGZJBZFS4QzX/t6tLr8iS0PNHCE8GBQaLE1+bJ26HMoWjTabAgeUmXnZ6/1YZO+vH255+HA+3DwebsR3MBLWG3d3ImhyPLYS0cjlViHTAm1okEbXkydqyDOmLd+TyRh82WJ6PwJPhYPJEHPpYnY/BEjIc/gnbqTa/EvWnZ4eYwHG4eDja/vtKC0DLe3Azq+uaExtgSxdzQCKAxRPGsJtdEFJWIAjxdRHGd8BmFAfYwhP5LHH+ymlxT5glVMk9kDE+sJtcUT4AKT64eT84S5UHQU+XusMzut/f94faeM9j+Yl0ukd7KcnGVEwCdt7+zH4emuK+/UZ8UbdMcErm8myeXyRHVuYmIGo0cUH3LeT1qU2X4ev3YeBbne5wMjomC+ML27jtz3u4Y0cR5z2g9IM/tNX3Ku03loZeO3aaitpdh9O4+Fbs9/vZNc/BUmGA/KMoojbZnzjtEbHl4pZHYEBhFbHAbxPZOhsmoPbtyzJZRysj8ebU8jpCJ729cjldvj9u+Nzqi0eCSI5F9qPY8VJq3WNs1zusLZjHZNCiYlSZGzFnj9A/pCnlmTaOu8CKjdIXstL8yBPqnwgSP56kRdUVwa7riZLx6ugLueazG0xWhfahUHqrt+p2eh+pGXoO8FCXN6k/lNUgb+rpzOzqHVNCuYhqyRC6W1gYVPm80rPC5+DBA4UO7Xnj9oaASUVTeGBGyxwSi2EU2TURReVdR5HQDiCIPrPicgRxpNM4ZBP1ZU71zBjfyjZfgVJiMGt6AG1kKvRilSCtKwKL0AQahKut6FqW9Q8/xUIL2GyvXF31CSA+KPpWP8Yh8ZIDog/ZDJnqIsv3M6CBRgDFEkefx+ehAHl5qHB1EjkmjA3AjmyrCU2EaMVeyYvuJ22bPcvsJYXj/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-01T01:05:58.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="AOrWYyzhJiL4OzuX_ZHD" version="15.0.4" type="github">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="2452" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tNpx7jzvRKUiA993KeqK-1" value="Price Prediction" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-3" value="&lt;br&gt;KAMIS Open API&lt;br&gt;농산물 유통정보" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-4" value="&lt;br&gt;자사 보유&amp;nbsp;&lt;br&gt;도매시장 낙찰가격" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-5" value="&lt;h1&gt;#1 Purpose&lt;/h1&gt;&lt;p&gt;선도거래 플랫폼에서 거대자본 유입으로인한 가격 편향성을 방지하고 안정적인 거래 기준을 제시하기 위한 기준 Price 필요&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry y="-40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-6" value="&lt;h1&gt;#2 Data Source&lt;/h1&gt;&lt;p&gt;데이터 소스별 공급처&lt;/p&gt;&lt;p&gt;데이터 분류 체계 (정형 비정형)&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-7" value="" style="shape=flexArrow;endArrow=classic;html=1;width=12.5;endSize=6.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="20" as="sourcePoint" />
+            <mxPoint x="300" y="19.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-8" value="" style="shape=flexArrow;endArrow=classic;html=1;width=12.5;endSize=6.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="20" as="sourcePoint" />
+            <mxPoint x="640" y="19.580000000000226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-9" value="&lt;h1&gt;#3 Data Collect&lt;/h1&gt;&lt;p&gt;데이터 유효성 검증&lt;/p&gt;&lt;p&gt;데이터3법 (개인정보 등)&lt;/p&gt;&lt;p&gt;수집가능여부/수집주기/보안&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-10" value="&lt;br&gt;기상청 날씨정보" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;KAMIS : OPEN API&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;수집주기 : 매일 아침 일별 데이터 갱신 자동화&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-19" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;자사보유 : mySQL to CSV&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;수집주기 : 전국 도매시장 일별 데이터 취합, SQL Cloud Server&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="190" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-20" value="&lt;ul&gt;&lt;li&gt;기상청 : OPEN API&lt;/li&gt;&lt;li&gt;수집주기 : 변수별로 상이하지만 일별 수집 갱신&lt;/li&gt;&lt;li&gt;재해특보의 경우 명목변수(K size Window Count)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="139.57999999999998" as="sourcePoint" />
+            <mxPoint x="650" y="139.57999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="229.58" as="sourcePoint" />
+            <mxPoint x="650" y="229.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-24" value="" style="shape=flexArrow;endArrow=classic;html=1;width=12.5;endSize=6.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="20.000000000000227" as="sourcePoint" />
+            <mxPoint x="1000" y="19.580000000000155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-25" value="&lt;h1&gt;#3 Data Preprocessing&lt;/h1&gt;&lt;p&gt;데이터 표준화&lt;/p&gt;&lt;p&gt;&lt;span&gt;EDA 실시 후 분석용 마트 생성&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-26" value="Test Data &lt;br&gt;수집 후 분석 완료 &lt;br&gt;적합 판단" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-110" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tNpx7jzvRKUiA993KeqK-27" target="tNpx7jzvRKUiA993KeqK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-27" value="&lt;br&gt;데이터 가공&lt;br&gt;데이터 전처리" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="100" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="130" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-29" value="" style="endArrow=classic;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tNpx7jzvRKUiA993KeqK-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="149.57999999999993" as="sourcePoint" />
+            <mxPoint x="1070" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tNpx7jzvRKUiA993KeqK-30" target="tNpx7jzvRKUiA993KeqK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-30" value="파생변수 생성&lt;br&gt;STL(Seasonal Trend Decomposition Using Loess)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tNpx7jzvRKUiA993KeqK-32" value="&lt;br&gt;데이터 가공&lt;br&gt;데이터 전처리" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="280" width="110" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
