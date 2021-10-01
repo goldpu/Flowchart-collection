@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T16:16:44.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="abscxqteTAIIgLDFL2-Y" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T16:53:58.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="vKfn1tiikEJNYU8omhMu" version="15.4.1" type="github">
   <diagram id="ceWQTapFRSN8GMsVmyJF" name="Page-1">
     <mxGraphModel dx="1426" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ObeY9BCKupQuLGC112tW-1" value="&lt;h1&gt;Is there any Solver human problem?&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="490" height="120" as="geometry" />
+        <mxCell id="ObeY9BCKupQuLGC112tW-1" value="&lt;h1&gt;Is there any Solver human problem?(water? food? population? ) 지구온난화&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="660" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
