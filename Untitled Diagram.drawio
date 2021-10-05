@@ -1,67 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T06:56:09.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Pe1vn1y-bLMmkkwxhU7O" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T11:22:27.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="JLLYJ7XUrzdnmpJTcTyz" version="15.4.0" type="github">
   <diagram id="aPpwis8wVv6BTGHh6oKa" name="Page-1">
-    <mxGraphModel dx="2062" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IXanY_waXnLPO531L0gg-1" value="PhoneVata" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-1" value="PhoneVata" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-2" value="VoiceChangeBreaker" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-2" value="VoiceChangeBreaker" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-3" value="&lt;h1&gt;PV vs VCB&lt;/h1&gt;&lt;p&gt;Let&#39;s do battle&lt;/p&gt;&lt;p&gt;Voice changer PhoneVata&lt;/p&gt;&lt;p&gt;Voice change detector&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-3" value="&lt;h1&gt;PV vs VCB&lt;/h1&gt;&lt;p&gt;Let&#39;s do battle&lt;/p&gt;&lt;p&gt;Voice changer PhoneVata&lt;/p&gt;&lt;p&gt;Voice change detector&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="180" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="IXanY_waXnLPO531L0gg-4">
+        <mxCell id="IXanY_waXnLPO531L0gg-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="IXanY_waXnLPO531L0gg-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="237" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-4" value="Women" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-4" value="Women" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-9" value="Voice Feature&lt;br&gt;Extraction" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-9" value="Voice Feature&lt;br&gt;Extraction" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="360" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-10" value="Target Script" style="swimlane;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-10" value="Target Script" style="swimlane;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="220" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-11" value="[Men voice]&lt;br&gt;Helio. How do you do?&lt;br&gt;I&#39;m fine thank you and you?&lt;br&gt;me,too" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IXanY_waXnLPO531L0gg-10">
+        <mxCell id="IXanY_waXnLPO531L0gg-11" value="[Men voice]&lt;br&gt;Helio. How do you do?&lt;br&gt;I&#39;m fine thank you and you?&lt;br&gt;me,too" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="IXanY_waXnLPO531L0gg-10" vertex="1">
           <mxGeometry x="30" y="25" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-12" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-12" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="330" as="sourcePoint" />
             <mxPoint x="380" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-13" value="Target Voice Script" style="swimlane;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-13" value="Target Voice Script" style="swimlane;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="500" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-14" value="[Women Voice]&lt;br&gt;Helio. How do you do?&lt;br&gt;I&#39;m fine thank you and you?&lt;br&gt;me,too" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IXanY_waXnLPO531L0gg-13">
+        <mxCell id="IXanY_waXnLPO531L0gg-14" value="[Women Voice]&lt;br&gt;Helio. How do you do?&lt;br&gt;I&#39;m fine thank you and you?&lt;br&gt;me,too" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="IXanY_waXnLPO531L0gg-13" vertex="1">
           <mxGeometry x="30" y="25" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-15" value="" style="shape=flexArrow;endArrow=classic;html=1;startSize=14;endSize=4.980555555555555;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;width=8.88888888888889;" edge="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-15" value="" style="shape=flexArrow;endArrow=classic;html=1;startSize=14;endSize=4.980555555555555;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;width=8.88888888888889;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="399.71" as="sourcePoint" />
             <mxPoint x="370" y="399.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-16" value="Target Voice" style="swimlane;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="IXanY_waXnLPO531L0gg-16" value="Target Voice" style="swimlane;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="355" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-17" value="Peach&lt;br&gt;Tone&lt;br&gt;Slang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IXanY_waXnLPO531L0gg-16">
+        <mxCell id="IXanY_waXnLPO531L0gg-17" value="Peach&lt;br&gt;Tone&lt;br&gt;Slang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="IXanY_waXnLPO531L0gg-16" vertex="1">
           <mxGeometry x="25" y="35" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-18" value="Noise Detect" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="220" width="120" height="30" as="geometry" />
+        <mxCell id="IXanY_waXnLPO531L0gg-18" value="Noise Detect" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-19" value="Clean Edge Detect" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="270" width="140" height="30" as="geometry" />
+        <mxCell id="IXanY_waXnLPO531L0gg-19" value="Clean Edge Detect" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="290" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IXanY_waXnLPO531L0gg-20" value="Environment Sound Cluster" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="320" width="190" height="40" as="geometry" />
+        <mxCell id="IXanY_waXnLPO531L0gg-20" value="Environment Sound Cluster" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="605" y="340" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
