@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T08:05:54.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="sKoI6CckACidkcPMv3KH" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T08:06:52.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="UzxTZHb-Sg2rNzOjB504" version="15.4.3" type="github">
   <diagram id="aPpwis8wVv6BTGHh6oKa" name="Page-1">
     <mxGraphModel dx="1718" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="410" y="60" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WwPDLwXKuEOoVoNPCU-s-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-178;" vertex="1" parent="1">
-          <mxGeometry x="630" y="490" width="60" height="40" as="geometry" />
+          <mxGeometry x="310" y="740" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WwPDLwXKuEOoVoNPCU-s-2" value="Car Sound Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="60" y="640" width="150" height="50" as="geometry" />
@@ -80,6 +80,26 @@
         </mxCell>
         <mxCell id="WwPDLwXKuEOoVoNPCU-s-5" value="TV Sound Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="610" y="640" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WwPDLwXKuEOoVoNPCU-s-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.467;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WwPDLwXKuEOoVoNPCU-s-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="590" as="sourcePoint" />
+            <mxPoint x="610" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="610" />
+              <mxPoint x="130" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwPDLwXKuEOoVoNPCU-s-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WwPDLwXKuEOoVoNPCU-s-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="590" as="sourcePoint" />
+            <mxPoint x="140.04999999999995" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="620" />
+              <mxPoint x="685" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
