@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T05:15:20.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.2" etag="3AjNf-LiGqbTOcxqyDHG" type="github"><diagram id="u0eCQh-K_n5KFYbbMTnr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-28T05:23:12.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="UjomgHOIfM-DW2EIiNYJ" version="15.5.2" type="github">
+  <diagram id="u0eCQh-K_n5KFYbbMTnr" name="Page-1">
+    <mxGraphModel dx="981" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-3" value="자동차" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-4" value="신발장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-5" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rotation=-101;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="230.47000000000003" y="250" width="99.07" height="67.13" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=7.61;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-11" value="화장실" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Qi8oMqFN5fUJKdL5kvx2-12" value="코인세탁실" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
